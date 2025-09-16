@@ -1,0 +1,49 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="S4I(XmWi7u_M1!S74FIC" x="0" y="0"></block><block type="device_forever" id="o6gr;qo]tF8.G.G![3?c" x="43" y="227"><statement name="HANDLER"><block type="device_print_message" id="M_]X%*})b0#RnRYEUKdq"><value name="text"><shadow type="text" id="eybD=U~tgwz=aTW$Q;bC"><field name="TEXT">Yaroslav</field></shadow></value><next><block type="device_show_leds" id="7|pa,r6M(}Gux(;tv$%}"><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="GqBE?[xdv4mdj,zRBMVG"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        . # # # . 
+        . # . # . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="SzfFF:3Va[20wfQM(qS."><field name="LEDS">`
+        . # . . # 
+        . # . # . 
+        . # # . . 
+        . # . . . 
+        . # . . .
+        `</field><next><block type="device_show_leds" id="(l.FJ{_Kgc)^`hrk;JBp"><field name="LEDS">`
+        . # # # . 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="I}fXHIN,mo8@G[S!}FoF"><field name="LEDS">`
+        . # # # . 
+        # . . . . 
+        . # # . . 
+        . . . # . 
+        # # # . .
+        `</field><next><block type="device_show_leds" id="OLw*..9.wdK9|/:Ak7I!"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="m8:S2Kcm@cWfiSrJM[SK"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        . # # # . 
+        . # . # . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="a1#{-!NrJe-*JWbu*~pR"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        . # # # . 
+        . . # . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
